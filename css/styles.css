@@ -47,6 +47,12 @@ body {
     transform: translate(-50%, -50%);
 }
 
+@media (max-width: 768px) {
+    #top-page-h1 {
+        font-size: 700%;
+    }
+}
+
 .top-page-h2 {
     color: #E2DCC8;
     font-family: 'Open Sans', sans-serif;
