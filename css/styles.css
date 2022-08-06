@@ -2,7 +2,7 @@
 
 body {
     background-color: #f5f5f5;
-    font-family: 'sf-pro-regular';
+    font-family: 'sf pro';
     text-align: center;
 }
 
@@ -39,7 +39,7 @@ body {
 
 #top-page-h1 {
     color: #1d1d1f;
-    font-family: 'SFPro';
+    font-family: 'sojourn';
     font-size: 800%;
     position: absolute;
     top: 40%;
@@ -94,4 +94,28 @@ body {
     #index-main {
         width: 80%;
     }
+}
+
+
+
+/* Fonts */
+
+@font-face {
+    font-family: "monteners";
+    src: url("fonts/monteners.otf");
+}
+
+@font-face {
+    font-family: "sf pro";
+    src: url("fonts/SF-Pro-Text-Regular.otf");
+}
+
+@font-face {
+    font-family: "sojourn";
+    src: url("fonts/Sojourn.otf");
+}
+
+@font-face {
+    font-family: "sojourn-italic";
+    src: url("fonts/Sojourn Italic.otf");
 }
