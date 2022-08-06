@@ -11,11 +11,12 @@ body {
 
 #index-main {
     background-color: #f5f5f5;
-    border: 2px solid #f1f1f1;
-    border-radius: 18px;
-    box-shadow: 9px 6px #f1f1f1;
+    border: 2px solid #f2f2f2;
+    border-radius: 1em;
+    box-shadow: .6em 0.9em #444;
     display: inline-block;
-    width: 30%;
+    margin: 3% 5% 0;
+    padding: 1em;
     text-align: center;
-    margin: 3%;
+    width: 30%;
 }
