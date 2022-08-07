@@ -55,6 +55,7 @@ body {
     color: #cc6757;
     font-family: 'Open Sans', sans-serif;
     font-size: 250%;
+    margin-bottom: 4%;
 }
 
 @media (max-width: 768px) {
@@ -65,9 +66,17 @@ body {
 
 #index-header-image {
     border-radius: 18px;
-    filter:drop-shadow(1px)
     height: auto;
     width: 100%;
+    margin-bottom: 0;
+}
+
+.dev-projects-h2 {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    margin: 0;
 }
 
 .projects-h2 {
